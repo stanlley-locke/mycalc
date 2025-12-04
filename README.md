@@ -1,14 +1,14 @@
-# iCalculator - Premium Scientific Calculator
+# mycalc -  Calculator
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-DB-orange?style=for-the-badge)
 
-A modern, high-performance scientific calculator built with Flutter, featuring an elegant iOS-style design.
+A modern,  scientific calculator built with Flutter.
 
 ## ✨ Features
 
-- **Premium UI**: Iconic Apple-style design with circular buttons, dark mode, and glassmorphism elements.
+- **UI**: Iconic design with circular buttons, dark mode, and glassmorphism elements.
 - **Scientific Mode**: Advanced mathematical functions including Trigonometry (sin, cos, tan), Logarithms (log, ln), Roots, and Exponents.
 - **History Tracking**: Persistent history of calculations using Hive local database.
 - **Robust Math Engine**: Powered by `math_expressions` for accurate parsing and evaluation.
