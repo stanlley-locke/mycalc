@@ -18,7 +18,7 @@ A modern,  scientific calculator built with Flutter.
 
 | Standard Mode | Scientific Mode | History |
 |:---:|:---:|:---:|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+| ![Standard](assets/standard_mode.jpg) | ![Scientific](assets/scientific_mode.jpg) | ![History](assets/history.jpg) |
 
 ## 🚀 Getting Started
 
